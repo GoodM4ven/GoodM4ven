@@ -10,7 +10,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
-        height="195em"
+        height="165em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&hide_border=true&hide_title=true"
       />
     </picture>
@@ -26,7 +26,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
-        height="195em"
+        height="165em"
         src="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&hide_border=true&hide_title=true"
       />
     </picture>
