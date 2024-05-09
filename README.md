@@ -5,11 +5,11 @@
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&theme=dark&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: dark), (max-width: 5em !important)"
+        media="(prefers-color-scheme: dark), (max-width: 100px)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (max-width: 5em !important)"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (max-width: 100px)"
       />
       <img
         height="165em"
