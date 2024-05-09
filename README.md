@@ -13,7 +13,7 @@
       />
       <img
         height="165em"
-        width="400px"
+        width="410px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&hide_border=true&hide_title=true"
       />
     </picture>
@@ -30,7 +30,7 @@
       />
       <img
         height="165em"
-        width="400px"
+        width="410px"
         src="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&hide_border=true&hide_title=true"
       />
     </picture>
