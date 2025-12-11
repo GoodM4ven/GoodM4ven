@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/GoodM4ven">
+  <a href="https://goodm4ven.dev">
     <picture>
       <img
         src="https://github.com/user-attachments/assets/601d03d6-7ef3-443e-b2c4-9e097cf5e254"
