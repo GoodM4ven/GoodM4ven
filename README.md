@@ -4,14 +4,14 @@
   <a href="https://github.com/GoodM4ven">
     <picture>
       <img
-        src="https://github.com/user-attachments/assets/eac05f0d-ad58-47df-9d6c-7a3830feccc2"
+        src="https://github.com/user-attachments/assets/722f59d2-6486-41e8-8512-6815afa9e926"
       />
     </picture>
   </a>
   <a href="https://github.com/GoodM4ven">
     <picture>
       <img
-        src="https://github.com/user-attachments/assets/2cbe0328-e47f-4538-ac5f-f99219f2a331"
+        src="https://github.com/user-attachments/assets/601d03d6-7ef3-443e-b2c4-9e097cf5e254"
       />
     </picture>
   </a>
