@@ -3,38 +3,20 @@
 <p align="center">
   <a href="https://github.com/GoodM4ven">
     <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&theme=dark&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
       <img
         height="165em"
         width="410px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&hide_border=true&hide_title=true"
+        src="https://github.com/user-attachments/assets/eac05f0d-ad58-47df-9d6c-7a3830feccc2"
       />
     </picture>
   </a>
   <a href="https://github.com/GoodM4ven">
     <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&theme=dark&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&hide_border=true&hide_title=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
       <img
         height="165em"
         width="410px"
-        src="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&hide_border=true&hide_title=true"
+        src="https://github.com/user-attachments/assets/2cbe0328-e47f-4538-ac5f-f99219f2a331"
       />
     </picture>
   </a>
 </p>
-
-<br>
