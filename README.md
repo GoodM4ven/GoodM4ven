@@ -17,12 +17,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/GoodM4ven">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodM4ven&layout=compact&theme=dark&hide_border=true&hide_title=true" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/GoodM4ven">
-        <img src="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GoodM4ven&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="100%" />
       </a>
     </td>
   </tr>
