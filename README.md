@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table align="center" cellpadding="6">
+<!-- <table align="center" cellpadding="6">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/GoodM4ven">
@@ -26,4 +26,4 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
