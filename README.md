@@ -19,7 +19,7 @@
 <div align="left">
 
 ## Documentation and Tools
-0. [https://github.com/GoodM4ven/WIKI_WEB_tall-standards](https://github.com/GoodM4ven/WIKI_WEB_tall-standards)
+0. [https://github.com/GoodM4ven/WIKI_NATIVE_tall-standards](https://github.com/GoodM4ven/WIKI_NATIVE_tall-standards)
 1. [https://github.com/GoodM4ven/CLI_LINUX_bash-aliases](https://github.com/GoodM4ven/CLI_LINUX_bash-aliases)
 2. [https://github.com/GoodM4ven/CLI_LARAVEL_lara-stacker](https://github.com/GoodM4ven/CLI_LARAVEL_lara-stacker)
 
