@@ -33,6 +33,9 @@
 0. [https://goodm4ven.dev](https://goodm4ven.dev)
 1. [https://muttasiq.com](https://muttasiq.com) ([https://github.com/GoodM4ven/NATIVE_TALL_muttasiq-dot-com](https://github.com/GoodM4ven/NATIVE_TALL_muttasiq-dot-com))
 
+## Patches
+0. [https://github.com/GoodM4ven/NATIVE_PLUGIN_muttasiq-patches](https://github.com/GoodM4ven/NATIVE_PLUGIN_muttasiq-patches)
+
 </div>
 
 <br>
