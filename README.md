@@ -28,6 +28,7 @@
 1. [https://github.com/GoodM4ven/PACKAGE_LARAVEL_anvil](https://github.com/GoodM4ven/PACKAGE_LARAVEL_anvil)
 2. [https://github.com/GoodM4ven/PACKAGE_LARAVEL_tailwind-merge](https://github.com/GoodM4ven/PACKAGE_LARAVEL_tailwind-merge)
 3. [https://github.com/GoodM4ven/PACKAGE_LARAVEL_blurred-image](https://github.com/GoodM4ven/PACKAGE_LARAVEL_blurred-image)
+4. [https://github.com/GoodM4ven/PACKAGE_LARAVEL_arabicable](https://github.com/GoodM4ven/PACKAGE_LARAVEL_arabicable)
 
 ## Applications
 0. [https://goodm4ven.dev](https://goodm4ven.dev)
