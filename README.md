@@ -36,6 +36,7 @@
 
 ## Patches
 0. [https://github.com/GoodM4ven/NATIVE_PLUGIN_muttasiq-patches](https://github.com/GoodM4ven/NATIVE_PLUGIN_muttasiq-patches)
+1. [https://github.com/GoodM4ven/PATCH_EXTENSION_GNOME_vscodium-workspaces](https://github.com/GoodM4ven/PATCH_EXTENSION_GNOME_vscodium-workspaces)
 
 </div>
 
