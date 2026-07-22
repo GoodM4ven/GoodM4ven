@@ -21,7 +21,7 @@
 ## Documentation and Tools
 0. [https://github.com/GoodM4ven/WIKI_NATIVE_tall-standards](https://github.com/GoodM4ven/WIKI_NATIVE_tall-standards)
 1. [https://github.com/GoodM4ven/CLI_MACOS_dot-zsh](https://github.com/GoodM4ven/CLI_MACOS_dot-zsh)
-2. [https://github.com/GoodM4ven/CLI_LARAVEL_lara-stacker](https://github.com/GoodM4ven/CLI_LARAVEL_lara-stacker)
+2. [https://github.com/GoodM4ven/CLI_MACOS_lara-stacker](https://github.com/GoodM4ven/CLI_MACOS_lara-stacker)
 3. [https://github.com/GoodM4ven/PATCH_EXTENSION_GNOME_vscodium-workspaces](https://github.com/GoodM4ven/PATCH_EXTENSION_GNOME_vscodium-workspaces)
 
 ## Packages
