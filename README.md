@@ -1,26 +1,14 @@
 <div align="center">بسم الله الرحمن الرحيم</div>
 <br>
 
-<table align="center" cellpadding="6">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://goodm4ven.dev">
-        <img src="https://github.com/user-attachments/assets/601d03d6-7ef3-443e-b2c4-9e097cf5e254" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/GoodM4ven">
-        <img src="https://github.com/user-attachments/assets/313dc4e8-cd6e-4361-92dd-c046363653db" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <div align="left">
 
-## Documentation and Tools
-1. [https://github.com/GoodM4ven/CLI_MACOS_dot-zsh](https://github.com/GoodM4ven/CLI_MACOS_dot-zsh)
-2. [https://github.com/GoodM4ven/CLI_MACOS_lara-stacker](https://github.com/GoodM4ven/CLI_MACOS_lara-stacker)
+## Scripts
+0. [https://github.com/GoodM4ven/CLI_MACOS_dot-zsh](https://github.com/GoodM4ven/CLI_MACOS_dot-zsh)
+1. [https://github.com/GoodM4ven/CLI_MACOS_lara-stacker](https://github.com/GoodM4ven/CLI_MACOS_lara-stacker)
+
+## Extensions
+0. [https://github.com/GoodM4ven/EXTENSION_RAYCAST_arabic-helpers](https://github.com/GoodM4ven/EXTENSION_RAYCAST_arabic-helpers)
 
 ## Packages
 0. [https://github.com/GoodM4ven/TEMPLATE_PACKAGE_TALL](https://github.com/GoodM4ven/TEMPLATE_PACKAGE_TALL)
